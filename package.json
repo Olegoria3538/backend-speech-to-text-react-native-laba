@@ -13,7 +13,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
     "@google-cloud/speech": "^2.3.1",
     "@hapi/hapi": "^18.3.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
     "pm2": "^3.5.0"
